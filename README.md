@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/ez-space-css-repo.svg)](https://badge.fury.io/js/ez-space-css-repo)
+[![npm version](https://badge.fury.io/js/ez-space-css.svg)](https://badge.fury.io/js/ez-space-css)
 
 [![Bower version](https://badge.fury.io/bo/ez-space.svg)](https://badge.fury.io/bo/ez-space)
 
@@ -13,7 +13,7 @@ Bootstrap utility classes for quickly adding padding and margin spacing. Ideal f
 Using npm:
 
 ```
-$ npm i ez-space-css-repo
+$ npm i ez-space-css
 ```
 
 Using bower:

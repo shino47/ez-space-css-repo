@@ -1,5 +1,5 @@
 {
-  "name": "ez-space-css-repo",
+  "name": "ez-space-css",
   "version": "1.0.0",
   "description": "Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries",
   "main": "css/ez-space.css",
