@@ -1,16 +1,32 @@
+[![npm version](https://badge.fury.io/js/ez-space-css-repo.svg)](https://badge.fury.io/js/ez-space-css-repo)
+
 [![Bower version](https://badge.fury.io/bo/ez-space.svg)](https://badge.fury.io/bo/ez-space)
+
+# ezspacecss
 
 http://ezspacecss.com
 
-# ezspacecss 1.1.0 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
+Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries.
 
-Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries
+## Installation
 
-### Conventions
+Using npm:
+
+```
+$ npm i ez-space-css-repo
+```
+
+Using bower:
+
+```
+$ bower install ez-space-css-repo
+```
+
+## Conventions
 
 This modular based css class system is to be used in conjunction with any html structure. Works well if you understand the bootstrap column naming convention. For instance, xs = extra small, s = small, m = medium, l = large. Built with Bootstrap's native media queries.
 
-#### Media Queries:
+### Media Queries
 
 xs = extra small
 
@@ -20,7 +36,7 @@ m = medium
 
 l = large
 
-#### Box Model:
+### Box Model
 
 p = padding
 
@@ -34,22 +50,16 @@ b = bottom
 
 r = right
 
-#### Sizes in pixels using incraments of 5:
+### Sizes in pixels using incraments of 5
 
 5px - 100px sizing
 
-### The basics
+## The basics
 
 Apply these classes to your html to quickly add additional margin or padding space. Classes are as follows:
 
 **Example: .xs-ml-10 = margin of 10px applied to the left of any element on a mobile device**
 
 **Example: .sm-mr-20 = margin of 20px applied to the right of any element on a tablet device**
-
-### install with Bower
-
-```
-$ bower install ez-space-css-repo
-```
 
 *Created by David Manzer 2016*

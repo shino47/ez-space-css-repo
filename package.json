@@ -1,0 +1,22 @@
+{
+  "name": "ez-space-css-repo",
+  "version": "1.0.0",
+  "description": "Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries",
+  "main": "css/ez-space.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shino47/ez-space-css-repo.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "bootstrap",
+    "utility"
+  ],
+  "author": "David Manzer <dmanzer2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shino47/ez-space-css-repo/issues"
+  },
+  "homepage": "https://ezspacecss.com/"
+}
